@@ -4,9 +4,12 @@ This is a simple script (which I intend to turn into it's own module at some poi
 I intend to build something much larger based on this package, but for now, this is it. Stay tuned, folks.
 
 ## Usage
-To get set up with `playlist2json`, install it through NPM.
+To get set up with `playlist2json`, all you need to do is install it through NPM (`npm install playlist2json`) and then start using it in your projects like so:
 ```
-npm install playlist2json
+const playlist2json = require("playlist2json");
+const playlistImport = ... // This is where your exported iTunes playlist data goes. However you retrieve it and store it is up to you.
+
+console.log(playlist2json.convert(playlistImport)) // Just run the playlist2json.convert function and include the XML data you wish to convert, and it'll return the converted playlist in JSON format.
 ```
 If you wanna play around more with it, you can download the GitHub repo and run `npm install` in its base directory. There is also a makeshift CLI of sorts which you can access by running `npm start` in the base directory of `playlist2json`.
 
