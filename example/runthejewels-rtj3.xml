@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2017-01-04T04:56:27Z</date>
+	<key>Application Version</key><string>12.5.3.17</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/soops/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>FE4C5151AE1EDA06</string>
+	<key>Tracks</key>
+	<dict>
+		<key>398</key>
+		<dict>
+			<key>Track ID</key><integer>398</integer>
+			<key>Name</key><string>Down (feat. Joi)</string>
+			<key>Artist</key><string>Run The Jewels</string>
+			<key>Album Artist</key><string>Run The Jewels</string>
+			<key>Album</key><string>Run The Jewels 3</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8505632</integer>
+			<key>Total Time</key><integer>209737</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-01-04T03:46:52Z</date>
+			<key>Date Added</key><date>2017-01-04T02:57:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Run The Jewels</string>
+			<key>Sort Artist</key><string>Run The Jewels</string>
+			<key>Persistent ID</key><string>B4A25BD0F713FD3C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Downloads/runthejewels3/RTJ3/01%20Down%20(feat.%20Joi).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>404</key>
+		<dict>
+			<key>Track ID</key><integer>404</integer>
+			<key>Name</key><string>Talk To Me</string>
+			<key>Artist</key><string>Run The Jewels</string>
+			<key>Album Artist</key><string>Run The Jewels</string>
+			<key>Album</key><string>Run The Jewels 3</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6168190</integer>
+			<key>Total Time</key><integer>151301</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-01-04T03:46:52Z</date>
+			<key>Date Added</key><date>2017-01-04T02:57:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Run The Jewels</string>
+			<key>Sort Artist</key><string>Run The Jewels</string>
+			<key>Persistent ID</key><string>A6867D47289F8C00</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Downloads/runthejewels3/RTJ3/02%20Talk%20To%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>407</key>
+		<dict>
+			<key>Track ID</key><integer>407</integer>
+			<key>Name</key><string>Legend Has It</string>
+			<key>Artist</key><string>Run The Jewels</string>
+			<key>Album Artist</key><string>Run The Jewels</string>
+			<key>Album</key><string>Run The Jewels 3</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8353074</integer>
+			<key>Total Time</key><integer>205923</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-01-04T03:46:52Z</date>
+			<key>Date Added</key><date>2017-01-04T02:57:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Run The Jewels</string>
+			<key>Sort Artist</key><string>Run The Jewels</string>
+			<key>Persistent ID</key><string>01BD8C6F081D3385</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Downloads/runthejewels3/RTJ3/03%20Legend%20Has%20It.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>410</key>
+		<dict>
+			<key>Track ID</key><integer>410</integer>
+			<key>Name</key><string>Call Ticketron</string>
+			<key>Artist</key><string>Run The Jewels</string>
+			<key>Album Artist</key><string>Run The Jewels</string>
+			<key>Album</key><string>Run The Jewels 3</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8064683</integer>
+			<key>Total Time</key><integer>198713</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-01-04T03:46:52Z</date>
+			<key>Date Added</key><date>2017-01-04T02:57:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Run The Jewels</string>
+			<key>Sort Artist</key><string>Run The Jewels</string>
+			<key>Persistent ID</key><string>6455BB8DDBBB0864</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Downloads/runthejewels3/RTJ3/04%20Call%20Ticketron.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>413</key>
+		<dict>
+			<key>Track ID</key><integer>413</integer>
+			<key>Name</key><string>Hey Kids (Bumaye) (feat. Danny Brown)</string>
+			<key>Artist</key><string>Run The Jewels</string>
+			<key>Album Artist</key><string>Run The Jewels</string>
+			<key>Album</key><string>Run The Jewels 3</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7791988</integer>
+			<key>Total Time</key><integer>191895</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-01-04T03:46:52Z</date>
+			<key>Date Added</key><date>2017-01-04T02:57:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Run The Jewels</string>
+			<key>Sort Artist</key><string>Run The Jewels</string>
+			<key>Persistent ID</key><string>3C0F513C6E64E443</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Downloads/runthejewels3/RTJ3/05%20Hey%20Kids%20(Bumaye)%20(feat.%20Danny%20Brown).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>416</key>
+		<dict>
+			<key>Track ID</key><integer>416</integer>
+			<key>Name</key><string>Stay Gold</string>
+			<key>Artist</key><string>Run The Jewels</string>
+			<key>Album Artist</key><string>Run The Jewels</string>
+			<key>Album</key><string>Run The Jewels 3</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8422034</integer>
+			<key>Total Time</key><integer>207647</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-01-04T03:46:52Z</date>
+			<key>Date Added</key><date>2017-01-04T02:57:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Run The Jewels</string>
+			<key>Sort Artist</key><string>Run The Jewels</string>
+			<key>Persistent ID</key><string>8619E1432D9A4004</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Downloads/runthejewels3/RTJ3/06%20Stay%20Gold.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>419</key>
+		<dict>
+			<key>Track ID</key><integer>419</integer>
+			<key>Name</key><string>Don't Get Captured</string>
+			<key>Artist</key><string>Run The Jewels</string>
+			<key>Album Artist</key><string>Run The Jewels</string>
+			<key>Album</key><string>Run The Jewels 3</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7807644</integer>
+			<key>Total Time</key><integer>192287</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-01-04T03:46:52Z</date>
+			<key>Date Added</key><date>2017-01-04T02:57:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Run The Jewels</string>
+			<key>Sort Artist</key><string>Run The Jewels</string>
+			<key>Persistent ID</key><string>0092860339E9DBBE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Downloads/runthejewels3/RTJ3/07%20Don't%20Get%20Captured.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>422</key>
+		<dict>
+			<key>Track ID</key><integer>422</integer>
+			<key>Name</key><string>Thieves! (Screamed The Ghost) (feat. Tunde Adebimpe)</string>
+			<key>Artist</key><string>Run The Jewels</string>
+			<key>Album Artist</key><string>Run The Jewels</string>
+			<key>Album</key><string>Run The Jewels 3</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9818060</integer>
+			<key>Total Time</key><integer>242546</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-01-04T03:46:52Z</date>
+			<key>Date Added</key><date>2017-01-04T02:57:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Run The Jewels</string>
+			<key>Sort Artist</key><string>Run The Jewels</string>
+			<key>Persistent ID</key><string>60ECB40E751AE68D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Downloads/runthejewels3/RTJ3/08%20Thieves!%20(Screamed%20The%20Ghost)%20(feat.%20Tunde%20Adebimpe).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>425</key>
+		<dict>
+			<key>Track ID</key><integer>425</integer>
+			<key>Name</key><string>2100 (feat. BOOTS)</string>
+			<key>Artist</key><string>Run The Jewels</string>
+			<key>Album Artist</key><string>Run The Jewels</string>
+			<key>Album</key><string>Run The Jewels 3</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9776230</integer>
+			<key>Total Time</key><integer>241502</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-01-04T03:46:52Z</date>
+			<key>Date Added</key><date>2017-01-04T02:57:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Run The Jewels</string>
+			<key>Sort Artist</key><string>Run The Jewels</string>
+			<key>Persistent ID</key><string>1B18E9CFBB44B3CF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Downloads/runthejewels3/RTJ3/09%202100%20(feat.%20BOOTS).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>428</key>
+		<dict>
+			<key>Track ID</key><integer>428</integer>
+			<key>Name</key><string>Panther Like A Panther (Miracle Mix) (feat. Trina)</string>
+			<key>Artist</key><string>Run The Jewels</string>
+			<key>Album Artist</key><string>Run The Jewels</string>
+			<key>Album</key><string>Run The Jewels 3</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8965422</integer>
+			<key>Total Time</key><integer>221231</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-01-04T03:46:52Z</date>
+			<key>Date Added</key><date>2017-01-04T02:57:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Run The Jewels</string>
+			<key>Sort Artist</key><string>Run The Jewels</string>
+			<key>Persistent ID</key><string>5AEA64041C904F70</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Downloads/runthejewels3/RTJ3/10%20Panther%20Like%20A%20Panther%20(Miracle%20Mix)%20(feat.%20Trina).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>431</key>
+		<dict>
+			<key>Track ID</key><integer>431</integer>
+			<key>Name</key><string>Everybody Stay Calm</string>
+			<key>Artist</key><string>Run The Jewels</string>
+			<key>Album Artist</key><string>Run The Jewels</string>
+			<key>Album</key><string>Run The Jewels 3</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7264297</integer>
+			<key>Total Time</key><integer>178703</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-01-04T03:46:52Z</date>
+			<key>Date Added</key><date>2017-01-04T02:57:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Run The Jewels</string>
+			<key>Sort Artist</key><string>Run The Jewels</string>
+			<key>Persistent ID</key><string>8D0067A19E9B0296</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Downloads/runthejewels3/RTJ3/11%20Everybody%20Stay%20Calm.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>434</key>
+		<dict>
+			<key>Track ID</key><integer>434</integer>
+			<key>Name</key><string>Oh Mama</string>
+			<key>Artist</key><string>Run The Jewels</string>
+			<key>Album Artist</key><string>Run The Jewels</string>
+			<key>Album</key><string>Run The Jewels 3</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8782521</integer>
+			<key>Total Time</key><integer>216659</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-01-04T03:46:52Z</date>
+			<key>Date Added</key><date>2017-01-04T02:57:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Run The Jewels</string>
+			<key>Sort Artist</key><string>Run The Jewels</string>
+			<key>Persistent ID</key><string>4EE3E587B4E0483F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Downloads/runthejewels3/RTJ3/12%20Oh%20Mama.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>437</key>
+		<dict>
+			<key>Track ID</key><integer>437</integer>
+			<key>Name</key><string>Thursday In The Danger Room (feat. Kamasi Washington)</string>
+			<key>Artist</key><string>Run The Jewels</string>
+			<key>Album Artist</key><string>Run The Jewels</string>
+			<key>Album</key><string>Run The Jewels 3</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10619498</integer>
+			<key>Total Time</key><integer>262582</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-01-04T03:46:52Z</date>
+			<key>Date Added</key><date>2017-01-04T02:57:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Run The Jewels</string>
+			<key>Sort Artist</key><string>Run The Jewels</string>
+			<key>Persistent ID</key><string>E1963D6C6CA1AEC6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Downloads/runthejewels3/RTJ3/13%20Thursday%20In%20The%20Danger%20Room%20(feat.%20Kamasi%20Washington).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>440</key>
+		<dict>
+			<key>Track ID</key><integer>440</integer>
+			<key>Name</key><string>A Report To The Shareholders / Kill Your Masters</string>
+			<key>Artist</key><string>Run The Jewels</string>
+			<key>Album Artist</key><string>Run The Jewels</string>
+			<key>Album</key><string>Run The Jewels 3</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15116734</integer>
+			<key>Total Time</key><integer>375013</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-01-04T03:47:14Z</date>
+			<key>Date Added</key><date>2017-01-04T02:57:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Run The Jewels 3</string>
+			<key>Sort Album Artist</key><string>Run The Jewels</string>
+			<key>Sort Artist</key><string>Run The Jewels</string>
+			<key>Sort Name</key><string>Report To The Shareholders / Kill Your Masters</string>
+			<key>Persistent ID</key><string>2414313CE1AB5762</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Downloads/runthejewels3/RTJ3/14%20A%20Report%20To%20The%20Shareholders%20_%20Kill%20Your%20Masters.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Run The Jewels - RTJ3</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>464</integer>
+			<key>Playlist Persistent ID</key><string>F975C4C77DCBE429</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>398</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>404</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>407</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>410</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>413</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>416</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>419</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>422</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>425</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>428</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>431</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>434</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>440</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

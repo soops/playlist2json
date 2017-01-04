@@ -1,0 +1,15 @@
+{
+  "name": "playlist2json",
+  "version": "1.0.0",
+  "description": "A package that converts exported XML iTunes playlists to usable JSON.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node CLI.js"
+  },
+  "author": "Ethan Arterberry",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "xml-js": "^0.9.7"
+  }
+}
